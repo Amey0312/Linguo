@@ -20,5 +20,7 @@ A user-friendly text-to-voice converter app that transforms written text into sp
 
 - HTML5: Provides the structure for the app's interface.
 - CSS3: Adds styling and responsiveness to the design.
-- JavaScript (ES6): Implements the text-to-voice functionality 
+- JavaScript (ES6): Implements the text-to-voice functionality
+
+## Checkout the website deployed on render: https://linguo.onrender.com
 
